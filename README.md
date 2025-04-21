@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **FR33TR1ST/FR33TR1ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Structure
